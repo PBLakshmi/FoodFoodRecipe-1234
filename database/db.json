@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "shortDescription": "With new found success with their beef sandwich, they named it the hamburger after the Erie County",
+      "description": "With new found success with their beef sandwich, they named it the hamburger after the Erie County Fair's home town of Hamburg, New York.",
+      "imageUrl": "burger.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pizza",
+      "shortDescription": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella",
+      "description": "Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven.",
+      "imageUrl": "pizza.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Falooda",
+      "shortDescription": "A falooda is a Mughal cold dessert made with vermicelli.sweet basil seeds with milk",
+      "description": "A falooda is a Mughalai cold dessert made with vermicelli. It has origins in the Persian dish faloodeh, variants of which are found across West, Central, South and Southeast Asia. Traditionally it is made by mixing rose syrup, vermicelli, and sweet basil seeds with milk, often served with ice cream.",
+      "imageUrl": "falooda.jpg"
+    },
+    {
+      "id": "4",
+      "name": "icecream",
+      "shortDescription": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar",
+      "description": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches. Food colouring is sometimes added in addition to stabilizers.",
+      "imageUrl": "icecream.jpg"
+    },
+    {
+      "id": "5",
+      "name": "pasta",
+      "shortDescription": "Pasta is a type of food made from a mixture of flour, eggs, and water .",
+      "description": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking.",
+      "imageUrl": "pasta-recipe.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Tiramisu",
+      "shortDescription": "tiramisu, dessert, of Italian origin, that blends layers of espresso and liqueur-soaked sponge cake",
+      "description": "Tiramisu is an Italian dessert made of ladyfinger pastries dipped in coffee, layered with a whipped mixture of eggs, sugar and mascarpone and flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts.",
+      "imageUrl": "tiramisu.jpg"
+    },
+    {
+      "id": "7",
+      "name": "momos",
+      "shortDescription": "The dumpling is first filled with meat as well as vegetables and spices.",
+      "description": "Momos are a type of steamed filled dumpling in Tibetan and Nepali cuisine that is also popular in neighbouring Bhutan and India. Momos are usually served with a sauce known as achar influenced by the spices and herbs used within many South Asian cuisines.",
+      "imageUrl": "momos.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Kunaffa",
+      "shortDescription": "Kunafa is made from Kataifi which is shredded phyllo dough.",
+      "description": "Kunafa is made from Kataifi which is shredded phyllo dough. This shredded dough is spread onto a pan and stuffed with either cheese or ashta, baked, then drizzled with simple syrup and garnished with pistachios.",
+      "imageUrl": "kunaffa.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Chicken Tikka",
+      "shortDescription": "Chicken Tikka are boneless pieces of chicken, marinated in spiced yogurt, threaded on a metal skewer and cooked on live charcoal.",
+      "description": "Chicken tikka is a chicken dish popularised in the Indian subcontinent popular in India, Bangladesh, Pakistan. It is traditionally small pieces of boneless chicken baked using skewers on a brazier called over charcoal after marinating in Indian spices and yogurt essentially a boneless version of tandoori chicken.",
+      "imageUrl": "tikka.jpeg"
+    }
+  ]
+}
